@@ -10,6 +10,8 @@ JavaScript: Managed game logic, DOM manipulation, and state management.
 # What I Learned
 This project was instrumental in enhancing my web development skills. Key learnings include:
 
-    HTML and CSS: Gained a deeper understanding of HTML5 semantic elements and advanced CSS features like flexbox, grid, and transitions, which were crucial for creating a fluid and engaging user interface.
-    JavaScript: This project was a hands-on opportunity to improve my JavaScript skills, particularly in areas like handling events, manipulating the DOM, and managing complex state changes without external libraries.
-    Problem-Solving: Developing the game logic required a methodical approach to problem-solving and debugging, especially when implementing the function to check for matches and manage game states.
+HTML and CSS: Gained a deeper understanding of HTML5 semantic elements and advanced CSS features like flexbox, grid, and transitions, which were crucial for creating a fluid and engaging user interface.
+
+JavaScript: This project was a hands-on opportunity to improve my JavaScript skills, particularly in areas like handling events, manipulating the DOM, and managing complex state changes without external libraries.
+
+Problem-Solving: Developing the game logic required a methodical approach to problem-solving and debugging, especially when implementing the function to check for matches and manage game states.
