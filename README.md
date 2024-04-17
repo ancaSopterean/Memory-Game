@@ -15,3 +15,6 @@ HTML and CSS: Gained a deeper understanding of HTML5 semantic elements and advan
 JavaScript: This project was a hands-on opportunity to improve my JavaScript skills, particularly in areas like handling events, manipulating the DOM, and managing complex state changes without external libraries.
 
 Problem-Solving: Developing the game logic required a methodical approach to problem-solving and debugging, especially when implementing the function to check for matches and manage game states.
+# Future Enhancements
+Score Tracking: Scores are calculated based on the number of moves made and the time taken to complete all matches. High scores are saved using local storage.
+Multiple Levels: Difficulty increases with each level by adding more cards and reducing the time available to complete the matches.
