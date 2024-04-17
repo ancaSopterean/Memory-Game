@@ -17,4 +17,5 @@ JavaScript: This project was a hands-on opportunity to improve my JavaScript ski
 Problem-Solving: Developing the game logic required a methodical approach to problem-solving and debugging, especially when implementing the function to check for matches and manage game states.
 # Future Enhancements
 Score Tracking: Scores are calculated based on the number of moves made and the time taken to complete all matches. High scores are saved using local storage.
+
 Multiple Levels: Difficulty increases with each level by adding more cards and reducing the time available to complete the matches.
